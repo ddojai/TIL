@@ -1,0 +1,15 @@
+{
+  "name": "vuepress-stater",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ddojai/TIL.git",
+  "author": "ddojai <favianred@gmail.com>",
+  "scripts": {
+    "docs:dev": "vuepress dev --port 8000",
+    "docs:build": "vuepress build"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
