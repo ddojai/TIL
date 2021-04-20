@@ -20,6 +20,7 @@
   - [https://gyoogle.dev/blog/computer-science/data-base/Index-.html](https://gyoogle.dev/blog/computer-science/data-base/Index-.html)
 - 인덱스의 알고리즘에는 어떤 것들이 있나요?
 - Table Full Scan과 Index Range Scan 을 설명해주세요.
+- mysql 인덱스는 hash와 b-tree가 있는데 차이점
 
 ## 트랜잭션
 

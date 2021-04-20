@@ -1,10 +1,4 @@
----
-title: REFACTORING 2판
-date: "2020-05-22T13:33:03.284Z"
-description: "book"
----
-
-# refactoring
+# REFACTORING 2판
 
 ## ch01. 리팩터링: 첫 번째 예시
 

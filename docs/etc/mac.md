@@ -4,8 +4,10 @@
 
 ### openjdk
 
-- brew tap AdoptOpenJDK/openjdk
-- brew cask install adoptopenjdk8
+```bash
+$ brew tap AdoptOpenJDK/openjdk
+$ brew cask install adoptopenjdk8
+```
 
 ## intellij
 
@@ -18,19 +20,25 @@
 
 ### nvm 설치
 
-- sudo curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh | bash
-- 터미널 재시작
-- nvm --version
+```bash
+$ sudo curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh | bash
+# 터미널 재시작
+$ nvm --version
+```
 
 ### nvm 으로 node 설치
 
-- nvm install --lts
-- node -v
+```bash
+$ nvm install --lts
+$ node -v
+```
 
 ### yarn 설치
 
-- brew install yarn
-- yarn --version
+```bash
+$ brew install yarn
+$ yarn --version
+```
 
 ## vscode
 
