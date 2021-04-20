@@ -5,8 +5,8 @@
   "repository": "https://github.com/ddojai/TIL.git",
   "author": "ddojai <favianred@gmail.com>",
   "scripts": {
-    "docs:dev": "vuepress dev --port 8000",
-    "docs:build": "vuepress build"
+    "dev": "vuepress dev documents",
+    "build": "vuepress build documents"
   },
   "license": "MIT",
   "devDependencies": {
