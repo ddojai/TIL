@@ -4,7 +4,7 @@ module.exports = {
   base: '/TIL',
   dest: 'build',
   themeConfig: {
-    search: false,
+    search: true,
     logo: 'https://avatars.githubusercontent.com/u/2128592?v=4', // logo 이미지
     nav: [
       { text: 'Home', link: '/' }, // 상단 메뉴
