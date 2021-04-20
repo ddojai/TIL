@@ -3,7 +3,7 @@ const children = require('./children');
 module.exports = {
   title: 'Today I Learned',
   description: 'Tech Wiki',
-  base: '/TIL',
+  base: '/TIL/',
   dest: 'build',
   themeConfig: {
     search: false,
