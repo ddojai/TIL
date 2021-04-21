@@ -2,7 +2,6 @@
 
 ## javascript
 
-- [ES2015+ 요약 정리](https://gyoogle.dev/blog/computer-language/Javascript/es2015.html)
 - [es6](http://hacks.mozilla.or.kr/category/es6-in-depth/)
 
 ## node
