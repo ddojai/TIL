@@ -1,4 +1,4 @@
-# 서버 사이드
+# Server
 
 ## apache
 

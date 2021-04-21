@@ -20,7 +20,7 @@ module.exports = {
     ],
     sidebar: [
       { title: 'Algorithm', children: children.algorithm },
-      { title: 'Dtabase', children: children.database },
+      { title: 'Database', children: children.database },
       { title: 'Etc', children: children.etc },
       { title: 'Node', children: children.node },
       { title: 'Php', children: children.php },

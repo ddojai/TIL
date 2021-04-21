@@ -1,4 +1,4 @@
-# issue
+# Issue
 
 ## mac 에서 composer로 프로젝트 생성시 intl warning 발생
 

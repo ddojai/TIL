@@ -1,6 +1,6 @@
 # Today I Learned
 
-- 배운 것들을 정리
+- [https://ddojai.github.io/TIL/](https://ddojai.github.io/TIL/)
 
 ## tech blog
 
