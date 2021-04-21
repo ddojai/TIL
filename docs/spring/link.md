@@ -2,7 +2,6 @@
 
 ## Java
 
-- [https://woowacourse.github.io/javable/](https://woowacourse.github.io/javable/)
 - [JAVA8 8가지 특징](http://pigbrain.github.io/java/2016/04/04/Java8_on_Java)
 - [Java equals()와 hashCode()](https://nesoy.github.io/articles/2018-06/Java-equals-hashcode)
 - [Lombok 사용상 주의점](http://kwonnam.pe.kr/wiki/java/lombok/pitfall)
@@ -29,7 +28,7 @@
 ## Jpa
 
 - [QueryDSL](https://www.slipp.net/wiki/pages/viewpage.action?pageId=25002111)
-- [JPA]https://github.com/slahsk/study/wiki
+- [JPA](https://github.com/slahsk/study/wiki)
 
 ## Jvm
 
