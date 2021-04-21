@@ -1,11 +1,11 @@
 exports.algorithm = [
+  'algorithm/heap',
   'algorithm/learning',
   'algorithm/link',
   'algorithm/sorting',
 ];
-
-exports.etc = ['etc/mac'];
-
-exports.node = ['node/website'];
-
-exports.php = ['php/issue', 'php/website'];
+exports.database = ['database/link'];
+exports.etc = ['etc/link', 'etc/mac', 'etc/server-side'];
+exports.node = ['node/link'];
+exports.php = ['php/issue', 'php/link'];
+exports.spring = ['spring/annotation', 'spring/link'];

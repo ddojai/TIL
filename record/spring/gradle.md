@@ -1,7 +1,8 @@
 # gradle5
 
 ## lombok
-``` build.gradle
+
+```build.gradle
   dependencies {
         annotationProcessor 'org.projectlombok:lombok'
         implementation 'org.projectlombok:lombok'

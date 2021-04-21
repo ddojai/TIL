@@ -19,10 +19,12 @@ module.exports = {
       },
     ],
     sidebar: [
-      { title: 'algorithm', children: children.algorithm },
-      { title: 'node', children: children.node },
-      { title: 'php', children: children.php },
-      { title: 'etc', children: children.etc },
+      { title: 'Algorithm', children: children.algorithm },
+      { title: 'Dtabase', children: children.database },
+      { title: 'Etc', children: children.etc },
+      { title: 'Node', children: children.node },
+      { title: 'Php', children: children.php },
+      { title: 'Spring', children: children.spring },
     ],
     smoothScroll: true, // 부드러운 스크롤 사용 여부
   },
