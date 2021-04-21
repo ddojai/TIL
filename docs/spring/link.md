@@ -29,10 +29,7 @@
 ## Jpa
 
 - [QueryDSL](https://www.slipp.net/wiki/pages/viewpage.action?pageId=25002111)
-- [https://github.com/slahsk/study/wiki/JPA-EntiyManager](https://github.com/slahsk/study/wiki/JPA-EntiyManager)
-- http://wonwoo.ml/index.php/post/997
-- https://github.com/slahsk/study/wiki
-- https://www.slideshare.net/ssusere4d67c/jpa-53004111
+- [JPA]https://github.com/slahsk/study/wiki
 
 ## Jvm
 

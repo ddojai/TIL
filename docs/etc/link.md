@@ -4,10 +4,6 @@
 
 - [clean code](https://sungjk.github.io/2017/07/27/clean-code.html?fbclid=IwAR3jcp5TrFBIkuo-6QhZZZTbvZbHviaV3N8F-mBFjjbZ8CoBoCLgWHgDcgw)
 
-## gRpc
-
-- https://medium.com/@goinhacker/microservices-with-grpc-d504133d191d
-
 ## web
 
 - [웹 아키텍쳐 입문](https://blog.rhostem.com/posts/2018-07-22-web-architecture-101)
@@ -37,9 +33,8 @@
 
 - [메세지 큐](http://12bme.tistory.com/176)
 - [CORS란](https://developer.mozilla.org/ko/docs/Web/HTTP/Access_control_CORS)
-- [XSS](http://penthegom.tistory.com/35)
-- [XSS](https://github.com/HomoEfficio/dev-tips/blob/master/SpringBoot-Tomcat8%20XSS%20Filter%20%EC%A0%81%EC%9A%A9.md)
-  springboot-transaction-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98/)
+- [Web XSS-Servlet-Filter 적용하기](http://penthegom.tistory.com/35)
+- [SpringBoot-Tomcat8 XSS Filter 적용](https://github.com/HomoEfficio/dev-tips/blob/master/SpringBoot-Tomcat8%20XSS%20Filter%20%EC%A0%81%EC%9A%A9.md)
 - [Massive service basic](https://www.slideshare.net/charsyam2/massive-service-basic)
 - [How to build massive service for advance](https://www.slideshare.net/charsyam2/how-to-build-massive-service-for-advance)
 - [메시지큐(Message Queue) 알아보기](https://12bme.tistory.com/176)

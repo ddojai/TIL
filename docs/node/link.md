@@ -17,7 +17,3 @@
 ## vue
 
 - [캡틴판교의 Cracking Vue.js](https://joshua1988.github.io/vue-camp/textbook.html)
-
-## webpack
-
-- http://blog.jeonghwan.net/js/2017/05/15/webpack.html
