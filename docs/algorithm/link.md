@@ -7,5 +7,4 @@
 
 ## 수학
 
-- [최대 공약수 (유클리드 호제법)](https://namu.wiki/w/%EC%9C%A0%ED%81%B4%EB%A6%AC%EB%93%9C%20%ED%98%B8%EC%A0%9C%EB%B2%95)
 - [가우스 덧셈](http://wonwoo.ml/index.php/post/589)

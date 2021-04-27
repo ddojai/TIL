@@ -9,7 +9,6 @@
 
 - [nodejs의 내부 동작 원리 (libuv, 이벤트루프, 워커쓰레드, 비동기)](https://sjh836.tistory.com/149)
 - [Node.js Stream 당신이 알아야할 모든 것 1편](http://jeonghwan-kim.github.io/node/2017/07/03/node-stream-you-need-to-know.html)
-- [nodejs의 내부 동작 원리 (libuv, 이벤트루프, 워커쓰레드, 비동기)](https://sjh836.tistory.com/149)
 
 ## react
 
