@@ -22,6 +22,7 @@ module.exports = {
       { title: 'Algorithm', children: children.algorithm },
       { title: 'Database', children: children.database },
       { title: 'Etc', children: children.etc },
+      { title: 'Kotlin', children: children.kotlin },
       { title: 'Node', children: children.node },
       { title: 'Php', children: children.php },
       { title: 'Spring', children: children.spring },
