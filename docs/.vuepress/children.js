@@ -9,4 +9,4 @@ exports.etc = ['etc/link', 'etc/mac', 'etc/server'];
 exports.kotlin = ['kotlin/basics'];
 exports.node = ['node/link'];
 exports.php = ['php/issue', 'php/link'];
-exports.spring = ['spring/annotation', 'spring/link'];
+exports.spring = ['spring/annotation', 'spring/issue', 'spring/learning', 'spring/link'];
