@@ -34,6 +34,12 @@ $ ls -l $(which php)
 $ php -i | grep -i intl
 ```
 
+## docker 환경에서 phpstorm phpunit 설정이 안될 때
+- docker desktop
+  - preferences -> general -> Use gRPC FUSE for file sharing 체크 해제
+- phpstorm
+  - remote cli 다시 설정
+
 ### 출처
 
 - [https://www.python2.net/questions-120117.htm](https://www.python2.net/questions-120117.htm)
