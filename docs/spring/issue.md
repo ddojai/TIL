@@ -7,3 +7,9 @@
 
 ## RestAssured와 기본 생성자에 관련된 삽질
 - https://dundung.tistory.com/202
+
+## 스프링 부트 실행시 data.sql 테이블 not exist 에러 
+- 하이버네이트 초기화 과정보다 data.sql 먼저 실행되도록 변경
+- boot 2.5 이상 버전 사용 시 오류가 발생하면 application.yml(또는 properties) 에 아래 옵션 추가
+- spring.jpa.defer-datasource-initialization: true
+- https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.5-Release-Notes
