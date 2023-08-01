@@ -4,7 +4,7 @@
 set -e
 
 # build
-yarn docs:build
+NODE_OPTIONS=--openssl-legacy-provider yarn docs:build
 
 # navigate into the build output directory
 cd build
